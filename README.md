@@ -21,5 +21,9 @@
 Не забудьте [оптимизировать картинки](https://tinypng.com/), чтобы ваш сайт загружался быстрее.
 
 Удачи!
+<<<<<<< HEAD
 
 https://mirankazaryan.github.io/russian-travel/
+=======
+https://mirankazaryan.github.io/russian-travel/
+>>>>>>> 7ecb8087303b9702bf7b992808850f8f041bf8fe
