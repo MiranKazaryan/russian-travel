@@ -1,0 +1,12 @@
+.place__cite {
+    align-self: end;
+  }
+  @media (max-width: 767px) {
+    .place__cite {
+      margin-bottom: 32px;
+      padding-left: 16px;
+      display: flex;
+      flex-direction: column;
+      align-self: flex-start;
+    }
+  }
